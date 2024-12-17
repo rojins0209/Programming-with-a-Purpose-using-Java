@@ -1,7 +1,4 @@
 # Programming-with-a-Purpose-using-Java
-Based on the gathered information, here is a proposed structure for your README file:
-
-# Programming-with-a-Purpose-using-Java
 
 ## Description
 This repository contains Java programs developed as part of the "Programming with a Purpose" course. The course focuses on teaching fundamental programming concepts and techniques in Java.
